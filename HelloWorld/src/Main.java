@@ -7,6 +7,6 @@ public class Main {
         //System.out.println merupakan perintah untuk menampilkan output ke konsol
         //System.out merupakan library standar dari java yang digunakan untuk mencetak output ke konsol
         //println digunakan untuk mencetak output ke konsol dan menambahkan baris baru
-        System.out.println(args[0]);
+        System.out.println("Hello World!");
     }
 }
